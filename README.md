@@ -1,5 +1,5 @@
 # my-ios-dev-journey
-My journey to become an IOS App Developer
+My journey as an IOS App Developer
 
 
 October 1, 2018
