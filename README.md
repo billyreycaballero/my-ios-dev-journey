@@ -20,7 +20,7 @@ November 7, 2015
 - I started learning IOS app development with objective-c at Treehouse (https://teamtreehouse.com/billyreycaballero)
 
 My Birthday in 2015
-- I received a gift from my wife that changed my life and intensified my interest in IOS app development, it is a MacBook Pro Mid 2012 (I upgraded to SSD and 8gb RAM). I still using it until now as of writing this.
+- I received a gift from my wife that changed my life and intensified my interest in IOS app development, it was a MacBook Pro Mid 2012 (I upgraded to SSD and 8gb RAM). I still using it until now as of writing this.
 
 Somewhere in 2015
 - I used Hackintosh and also run MacOS in VMWare Workstation just to experience IOS app development.
